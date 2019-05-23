@@ -28,7 +28,8 @@
 - [Unbound](http://unbound.net/) - Unbound is a validating, recursive, and caching DNS resolver.
 - [NSD](https://www.nlnetlabs.nl/projects/nsd/) - NSD is an authoritative only, high performance, simple and open source name server.
 - [Knot DNS](https://www.knot-dns.cz/) - Knot DNS is a high-performance authoritative-only DNS server which supports all key features of the modern domain name system.
-- [dnspod-sr](https://github.com/DNSPod/dnspod-sr/) - A faster recursive dns server from DNSPod
+- [dnspod-sr](https://github.com/DNSPod/dnspod-sr/) - A faster recursive dns server from DNSPod.
+- [CoreDNS](https://coredns.io/) - CoreDNS is a DNS server that chains plugins, written in Go. It is a [Cloud Native Computing Foundation](https://cncf.io) graduated project.
 
 ## Caches
 
