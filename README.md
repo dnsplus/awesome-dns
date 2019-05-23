@@ -12,7 +12,7 @@
   - [C](#c)
   - [Java](#java)
   - [Golang](#golang)
-  - [JavaScript](#javascript)
+  - [Node.js](#node.js)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Perl](#perl)
@@ -62,6 +62,10 @@
 ### Python
 
 - [rthalley/dnspython](https://github.com/rthalley/dnspython) - A powerful DNS toolkit for python.
+
+### Node.js
+
+- [trevoro/node-named](https://github.com/trevoro/node-named) - DNS Server in node.js
 
 ### Ruby
 
